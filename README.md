@@ -1,2 +1,1 @@
-Me chamo Eduardo e estou estudando programação front-end. Atualmente buscando uma oportunidade no mercado.
-Conhecimento básico em JS, Python, HMTL, CSS, Git e GitHub
+Atualmente estudando programação front-end e aperfeiçoando meus conhecimentos através da criação de projetos pessoais. Também estou cursando Análise e Desenvolvimento de Sistemas na UCS. Possuo conhecimento em Javascript, Python, Git/GitHub, Html e Css
