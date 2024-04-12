@@ -23,5 +23,5 @@
 <a href="https://linkedin.com/in/eduardo dos santos morbeck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo dos santos morbeck" height="30" width="40" /></a>
 </p>
 <h3 align="left">About me:</h3>
-I’m 20 years old and currently learning **Web development**. I have experience on Web Development **(Python, JavaScript, HTML, CSS)**, Oriented Object Programming **(Java)**, Data Base **(MySQL)** and Code Versioning **(Git)**. Nowadays I´m studying and practing my coding skills creating personal projects, exploring other techonologies and methods.
+I’m 20 years old and currently learning Web Development . I have experience on Web Development (Python, JavaScript, HTML, CSS), Oriented Object Programming (Java), Data Base (MySQL) and Code Versioning (Git). Nowadays I´m studying and practing my coding skills creating personal projects, exploring other techonologies and methods.
 
