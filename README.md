@@ -2,6 +2,8 @@
 
 I’m 20 years old and currently learning **Web development**. I have experience on Web Development **(Python, JavaScript, HTML, CSS)**, Oriented Object Programming **(Java)**, Data Base **(MySQL)** and Code Versioning **(Git)**. Nowadays I´m studying and practing my coding skills creating personal projects, exploring other techonologies and methods.
 
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoMorbeck&show_icons=true&theme=dracula)
+
 <h3 align="left">Web Development:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
