@@ -1,4 +1,4 @@
-<h3 align="center">Hy there! I´m Eduardo Morbeck, a Web Developer</h3>
+<h3 align="center">Olá mundo! Me chamo Eduardo Morbeck, sou Desenvolvedor Web</h3>
 
 
 
@@ -23,5 +23,5 @@
 <a href="https://linkedin.com/in/eduardo dos santos morbeck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo dos santos morbeck" height="30" width="40" /></a>
 </p>
 <h3 align="left">About me:</h3>
-I´m 20 years old and passionate about technology and innovation, I maintain a daily study routine focused on web development, applying and improving my knowledge through the creation of personal projects using the best development practices. I have experience in Object-Oriented Programming (Java), Web Development (Python, Javascript, HTML, CSS), Database Management (MySQL) and Code Versioning (Git).
+Desenvolvedor web com especialização em front-end e uma grande paixão por tecnologia e inovação. Atualmente trabalho na Eterno Software Jurídico como Desenvolvedor Júnior, contribuindo para o desenvolvimento de soluções criativas e funcionalidades para o ERP da empresa. Estou cursando Análise e Desenvolvimento de Sistemas na Universidade de Caxias do Sul (UCS) e busco constantemente aprimorar minhas habilidades e conhecimento na área.
 
