@@ -1,4 +1,4 @@
-<h3 align="center">Olá mundo! Me chamo Eduardo Morbeck, sou Desenvolvedor Web</h3>
+<h3>Olá mundo! Me chamo Eduardo Morbeck, sou Desenvolvedor Web</h3>
 
 ![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EduardoMorbeck&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMorbeck&layout=donut)](https://github.com/anuraghazra/github-readme-stats) 
