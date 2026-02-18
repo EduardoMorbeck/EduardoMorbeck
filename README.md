@@ -1,15 +1,13 @@
-<h3>Olá mundo! Me chamo Eduardo Morbeck, sou Desenvolvedor Web</h3>
+# Olá mundo! Me chamo Eduardo Morbeck👋
 
-<h3>Perfil</h3>
-Desenvolvedor web com especialização em front-end e uma grande paixão por tecnologia e inovação. Atualmente trabalho na Eterno Software Jurídico como Desenvolvedor Júnior, contribuindo para o desenvolvimento de soluções criativas e funcionalidades para o ERP da empresa. Estou cursando Análise e Desenvolvimento de Sistemas na Universidade de Caxias do Sul (UCS) e busco constantemente aprimorar minhas habilidades e conhecimento na área.
+Sou um Desenvolvedor Web focado na criação de soluções escaláveis e na otimização de sistemas legados. Tenho experiência consolidada no ecossistema Python (FastAPI) e JavaScript (Vue.js/Astro), com foco em transformar regras de negócio complexas em software eficiente.
 
-<h3>Tecnologias e Ferramentas</h3>
-<ul>
-<li>Linguagens: JavaScript, Java, Python, SQL
-<li>Frameworks: Astro, Vue.js
-<li>Banco de Dados: MySQL, PostgreSQL
-<li>Controle de Versão: Git/GitHub
-<li>Sistema Operacional: Ubuntu
-</ul>
+Fluente em inglês (Nível C1 - Michigan English Test), com formação em Análise e Desenvolvimento de Sistemas pela UCS (Universidade de Caxias do Sul).
 
+## Experiência recentes:
+- Desenvolvi um microsserviço escalável integrado à API da OpenAI para análise jurídica, reduzindo o tempo operacional em 50%.
+- Refatorei sistemas legados em Vue.js 2, alcançando uma otimização de até 90% na renderização de componentes e chamadas de API.
+- Experiência com arquitetura em camadas, Docker, testes automatizados (Pytest) PostgreSQL.
 
+## Habilidades:
+Javascript, HTML, CSS, Tailwind, Vue.js, Astro, Python, FastAPI, Pytest, Java, C#, Git, Docker, PostgreSQL, MySQL
