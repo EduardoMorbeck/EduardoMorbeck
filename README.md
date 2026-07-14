@@ -4,9 +4,9 @@ Sou um Desenvolvedor Fullstack com foco em desenvolvimento de sistemas ERP usand
 
 Também sou Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade de Caxias do Sul e possuo inglês avançado (C1 - Michigan English Test).
 
-Habilidades que tenho usado no trabalho:
+Habilidades:
 - Frontend: JavaScript, TypeScript, Vue.js, Astro, Tailwind, HTML, CSS, UI/UX
 - Backend: C# (.NET), EF Core, Python, FastAPI, REST, DDD, Swagger
 - Banco de Dados: PostgreSQL, MongoDB 
-- DevOps: Docker, AWS, Git, CI/CD 
+- DevOps: Docker, Git, Github Actions, CI/CD, AWS
 - IA: OpenAI API, LLMs, Prompt Engineering, RAG 
