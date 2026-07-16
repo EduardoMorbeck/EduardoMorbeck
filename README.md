@@ -1,6 +1,6 @@
 # Olá mundo! Me chamo Eduardo Morbeck 👋
 
-Sou um Desenvolvedor Fullstack com foco em desenvolvimento de sistemas ERP usando Vue.js, Python e C# (.NET), arquitetura de microsserviços e integração de soluções com IA generativa, priorizando escalabilidade e modernização de sistemas legados. Experiência com Docker, PostgreSQL e metodologias ágeis (Scrum).
+Sou um Desenvolvedor Full Stack com foco em desenvolvimento de sistemas ERP usando Vue.js, Python e C# (.NET), arquitetura de microsserviços e integração de soluções com IA generativa, priorizando escalabilidade e modernização de sistemas legados. Experiência com Docker, PostgreSQL e metodologias ágeis (Scrum).
 
 Também sou Tecnólogo em Análise e Desenvolvimento de Sistemas pela Universidade de Caxias do Sul e possuo inglês avançado (C1 - Michigan English Test).
 
